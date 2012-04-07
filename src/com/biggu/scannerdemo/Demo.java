@@ -1,3 +1,4 @@
+/*with comment*/
 package com.biggu.scannerdemo;
 
 import com.biggu.barcodescanner.client.android.Intents;
